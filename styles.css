@@ -218,6 +218,7 @@ padding:30px 150px;
     text-align: left;
    
     color:#474747;
+    margin-bottom: 20px;
   }
   .summary{
     margin-top:130px;
@@ -259,3 +260,54 @@ letter-spacing: 0em;
 text-align: left;
 color:#757575;
   }
+  .download-cv{
+    text-align: center;
+    margin-top:50px;
+   
+  }
+  
+  
+  form{
+    display:flex;
+    flex-direction:column;
+  }
+.last{
+    display:flex;
+    width: 1600px;
+ height: 780px;
+ top: 3476px;
+ background-color:#FFF8F3;
+ margin-top:30px;
+ 
+}
+.connect{
+    align-items:center;
+}
+.let{
+    align-items:center;}
+.name{
+
+
+border-radius: 5px;
+
+}
+.password{
+    width: 461px;
+height: 30px;
+top: 3682px;
+left: 909px;
+border-radius: 5px;
+
+}
+.textarea{
+    width: 461px;
+height: 180px;
+top: 3858px;
+left: 909px;
+border-radius: 5px;
+
+}
+.submit{
+    display:flex;
+    flex-direction: row;
+}
