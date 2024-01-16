@@ -140,6 +140,8 @@ color:#181818;
   .skills{
     display:flex;
     justify-content: space-around;
+    gap:25px;
+    max-width: 1600px;
   }
   .icon{
     align-items: center;
@@ -170,8 +172,90 @@ font-weight: 400;
 line-height: 30px;
 letter-spacing: 0em;
 text-align: center;
-margin-bottom:30px;
-margin-top:30px;
-margin-left:115px;
-margin-right:115px;
+padding:30px 150px;
 }
+.skill-description{
+    padding:30px;
+}
+.skill-name{
+    padding:30px 30px 20px 30px;
+}
+.icon{padding:30px 190px 30px 30px;}
+.skill {
+    max-width: 267px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 20px 0px #0000000F;
+    background-color: #FFF;
+    text-align: center;
+  }
+  main{
+    max-width:1140px;
+    nargin:0 auto;
+  }
+  main section{
+    margin-top:130px;
+  }
+  .summary{
+   
+    font-family: Open Sans;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    color:#181818;
+
+  }
+  .column-title{
+   
+
+
+
+  }
+  .column-header{
+    font-family: Open Sans;
+    font-size: 28px;
+    font-weight: 700;
+  
+    text-align: left;
+   
+    color:#474747;
+  }
+  .summary{
+    margin-top:130px;
+  }
+  .column-container{
+    display:flex;
+    justify-content:space-around;
+    gap:70px;
+  }
+  .degree{
+    width: 405px;
+font-family: Open Sans;
+font-size: 25px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+color:#474747;
+
+
+  }
+  .versity{
+    color:#757575;
+    width: 309px;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+  }
+  .versity-pass{
+    font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color:#757575;
+  }
