@@ -206,7 +206,9 @@ padding:30px 150px;
   }
   .column-title{
    
-
+   padding-top:20px;
+   align-items: center;
+   padding-left:50px;
 
 
   }
